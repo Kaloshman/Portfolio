@@ -1,0 +1,1 @@
+Tutaj znajdują się moje dotychczas ukończone projekty. Stawiam na ciągły rozwój, dlatego planuję regularnie dodawać kolejne. Korzystam z materiałów edukacyjnych, głównie z kursów na Udemy oraz MMC School. W nauce wspieram się także dokumentacją i artykułami z W3Schools oraz MDN Web Docs.
